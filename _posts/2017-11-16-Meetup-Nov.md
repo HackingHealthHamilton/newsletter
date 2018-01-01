@@ -11,21 +11,35 @@ title: 2017 Nov. Meetup
 
 We had our most successful meetup to date on November 16th! Thank you to everyone that came out to listen to some top-notch speakers. CoMotion on King was very gracious with giving us their fabulous space. It gave us an opportunity to mix and mingle, and some great conversations sprung up. 
 
-![Eric](/emerald/img/meetup/2017nov/img-eric.png "Eric")
+![Eric](/newsletter/img/meetup/2017nov/img-eric.png "Eric")
 
 The evening kicked off with **Eric Bosch**, the Director of Software Development at DF/Net, whose software has supported global clinical research. Eric detailed the history and the challenges in clinical trial data collection. He presented some different platform solutions based on the experience of DF/Net Software’s 25-year history of data collection.
 
 Eric also shared the positive experience he’s had by connecting to the McMaster University MSc eHealth Program. DF/Net is hiring two of the eHealth students to develop a mobile solution, DF/Collect, for clinical trial data management.
 
-![Prof](/emerald/img/meetup/2017nov/img-prof.png "Prof")
+![Prof](/newsletter/img/meetup/2017nov/img-prof.png "Prof")
 
 Our second speaker, **Dr. Hamid R. Tizhoosh**, is the Director of KIMIA lab from Waterloo University. He presented a fascinating talk on the theoretical and practical aspects of big image data, opposition based learning, machine intelligence and medical image analysis. 
 
 Dr. Tizhoosh spoke of his recent work on a Content-Based Image Retrieval (CBIR) system which identifies similar medical images based on a query image that can assist clinicians in obtaining an accurate diagnosis. 
 
-![Arinai](/emerald/img/meetup/2017nov/img-arinai.png "Arinai")
+![Arinai](/newsletter/img/meetup/2017nov/img-arinai.png "Arinai")
 
 The meetup wrapped up with the team from **Arinai**, a recent startup that provides real-time medical translation and comprehension services. Mohamed Ibrahim, Naida Ashoori and Robert Zeni gave an overview of their company and shared their journey from the Hacking Health Hackathon Hamilton in April 2017. They have received a great amount of support recently for their company from IBM, Hamilton Health Sciences, and MEDIC. 
+
+### Networking
+![Audio1](/newsletter/img/meetup/2017nov/img-audio1.png "Audio1")
+
+![Audio2](/newsletter/img/meetup/2017nov/img-audio2.png "Audio2")
+
+![Ehealth](/newsletter/img/meetup/2017nov/img-ehealth.png "Ehealth")
+McMaster EHealth
+
+![SimonEric](/newsletter/img/meetup/2017nov/img-simonAndEric.png "SimonEric")
+
+![SimonProf](/newsletter/img/meetup/2017nov/img-simonAndProf.png "SimonProf")
+
+![SimonAi](/newsletter/img/meetup/2017nov/img-simonAndAi.png "SimonAi")
 
 
 ### Our Jan. Meetup in 2018: Managing diabetes & printing body parts
@@ -40,4 +54,4 @@ Make sure that you don’t miss out on our next meetup January 18th.
 - Entries for [Synapse competition](https://www.synapselifescience.com/apply---open) are over, but save the date for the showcase in March.
 
 > Happy holidays!
-![holiday](/emerald/img/meetup/2017nov/img-holiday.png "Holiday")
+![holiday](/newsletter/img/meetup/2017nov/img-holiday.png "Holiday")
