@@ -1,7 +1,9 @@
-## About
+## News letter is using "emerald" template
+
+### About Emerald
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-![Emerald](/img/Emerald01.png "Emerald")
+![Emerald](/img/ "Emerald")
 
 ## Setup & usage
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
