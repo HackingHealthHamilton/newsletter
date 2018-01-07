@@ -11,11 +11,11 @@ title: 2017 Nov. Meetup
 
 We had our most successful meetup to date on November 16th! Thank you to everyone that came out to listen to some top-notch speakers. CoMotion on King was very gracious with giving us their fabulous space. It gave us an opportunity to mix and mingle, and some great conversations sprung up. 
 
-![Eric](/newsletter/img/meetup/2017nov/img-eric.png "Eric")
-
 The evening kicked off with **Eric Bosch**, the Director of Software Development at DF/Net, whose software has supported global clinical research. Eric detailed the history and the challenges in clinical trial data collection. He presented some different platform solutions based on the experience of DF/Net Software’s 25-year history of data collection.
 
-Eric also shared the positive experience he’s had by connecting to the McMaster University MSc eHealth Program. DF/Net is hiring two of the eHealth students to develop a mobile solution, DF/Collect, for clinical trial data management.
+![Eric](/newsletter/img/meetup/2017nov/img-eric.png "Eric")
+
+Eric also shared the positive experience he’s had by connecting to the McMaster University MSc eHealth Program. DF/Net is hiring two of the eHealth students to develop a mobile solution, DFCollect, for clinical trial data management. Yiguo did a demo about DFCollect, one solution of collecting data online or offline with a tablet.
 
 ![Prof](/newsletter/img/meetup/2017nov/img-prof.png "Prof")
 
