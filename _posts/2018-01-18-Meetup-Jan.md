@@ -16,11 +16,11 @@ We had our most successful meetup to date on Jan 18th at Innovation Factory - Mc
 
 Joanna Wilson, an Associate Professor of Biology at McMaster University shared with us her experiences as a parent of a child who was diagnosed with Type 1 diabetes just over a year ago. Her daughter is currently treated with multiple daily injections of  insulin and her blood sugar is monitored with a continuous glucose monitoring device.
 
-![Joanna](/newsletter/img/meetup/2018jan/img-prof1png "Joanna")
+![Joanna](/newsletter/img/meetup/2018jan/img-prof1.png "Joanna")
 
 Joanna discussed the basics of care for a person with T1D and the major challenges that families face in delivering that care inside and outside of the home, including school. Since the body doesn’t have insulin, blood sugar can rise and drop, often unpredictably, and needs immediate intervention and management. This can be a real challenge for parents when children are at school or elsewhere without a caregiver.
 
-![Joanna](/newsletter/img/meetup/2018jan/img-pro3.png "Joanna")
+![Joanna](/newsletter/img/meetup/2018jan/img-prof3.png "Joanna")
 
 Joanna described the options for insulin delivery and blood sugar monitoring essential for T1D and where technology has helped her family cope with the high demands of this disease. Two devices which help families improve T1D management are Continuous glucose monitoring (CGM) and Flash Glucose Monitoring (FGM). CGM is a small wearable device that tracks glucose throughout the day and night, notifying of highs and lows so caregivers can take action. Insulin Pumps (tubeless and tubed pumps) make administering insulin easier. Near the end of her presentation, Joanna  discussed some of the frustrations that parents face when helping their child manage their disease. She described some mobile health apps designed for other aspects of life in T1D management but also made a plea for better apps, that integrated aspects of care. She also called for innovation in the delivery device for glucagon, a life-saving treatment,  that can be adopted by schools.
 
