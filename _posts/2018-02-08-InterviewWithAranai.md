@@ -1,10 +1,10 @@
 ---
-title: An interview with Aranai, winners of the HHS/IBM Innovation Exchange prize in our 2017 Hackathon
+title: An interview with Arinai, winners of the HHS/IBM Innovation Exchange prize in our 2017 Hackathon
 ---
 
 ### We asked Deborah Konig, a marketing specialist at Mohawk College, to interview Nadia Ashoori, one of the team members of a winning 2017 hackathon project. 
 
-Nadia Ashoori is co-founder of [Aranai](http://arinai.com/), a startup dedicated to restoring independence to patients and improving quality of care. She is a Master of Science eHealth candidate at McMaster University and a business development professional and marketing wiz with several years of experience in a variety of sectors, especially in the health sector.
+Nadia Ashoori is co-founder of [Arinai](http://arinai.com/), a startup dedicated to restoring independence to patients and improving quality of care. She is a Master of Science eHealth candidate at McMaster University and a business development professional and marketing wiz with several years of experience in a variety of sectors, especially in the health sector.
 
 ### Here is what she had to say about winning the hackathon and commercializing her project!
 
