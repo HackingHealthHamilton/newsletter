@@ -7,7 +7,7 @@ title: Hackathon 2018 Third Day -  Demo, Winner, Acknowledge
 
 ![img-2](/newsletter/img/hackathon/hackathon2018/day3/img-2.png "img-2")
 
-Thank you Kyle Brown from [@Joule_CMA] (https://twitter.com/Joule_CMA) for coming to Hacking Health Hamilton Hackathon 2018!
+Thank you Kyle Brown from [@Joule_CMA](https://twitter.com/Joule_CMA), for coming to Hacking Health Hamilton Hackathon 2018!
 ![img-27](/newsletter/img/hackathon/hackathon2018/day3/img-27.png "img-27")
 
 Thank you, Telma Charrua from [@DesjardinsGroup](https://twitter.com/DesjardinsGroup), for coming to our Hamilton Hacking Health Hackathon 2018
@@ -29,7 +29,7 @@ Thank you, Telma Charrua from [@DesjardinsGroup](https://twitter.com/DesjardinsG
 
 
 ### Demo
-**Kyle Brown** representing [@Joule_CMA] (https://twitter.com/Joule_CMA) here at Hacking Health Hamilton Hackathon 2018. In the foreground, the names of participants who might win an Amazon Echo!
+**Kyle Brown** representing [@Joule_CMA](https://twitter.com/Joule_CMA), here at Hacking Health Hamilton Hackathon 2018. In the foreground, the names of participants who might win an Amazon Echo!
 ![img-38](/newsletter/img/hackathon/hackathon2018/day3/img-38.png "img-38")
 
 **Simon Woodside** thanking our national and local sponsors, co-leads, volunteers, our MC Nick, and all participants. 
@@ -61,7 +61,8 @@ Thank you, Telma Charrua from [@DesjardinsGroup](https://twitter.com/DesjardinsG
 ![img-9](/newsletter/img/hackathon/hackathon2018/day3/img-9.png "img-9")
 
 
-**Could be a solution to cognitive problems of dimentia in aging population? Tiger is presenting his team work as CognitivePhenoType.**
+**Could be a solution to cognitive problems of dimentia in aging population?** 
+Tiger is presenting his team work as CognitivePhenoType.
 ![img-10](/newsletter/img/hackathon/hackathon2018/day3/img-10.png "img-10")
 
 ![img-11](/newsletter/img/hackathon/hackathon2018/day3/img-11.png "img-11")
@@ -73,15 +74,15 @@ Thank you, Telma Charrua from [@DesjardinsGroup](https://twitter.com/DesjardinsG
 ![img-14](/newsletter/img/hackathon/hackathon2018/day3/img-14.png "img-14")
 
 
-**Could seniors who have disability use smartphones easily? Now, our next team came to help them! **
+**Could seniors who have disability use smartphones easily? **
+**Now, our next team came to help them! **
 ![img-16](/newsletter/img/hackathon/hackathon2018/day3/img-16.png "img-16")
 
 ![img-17](/newsletter/img/hackathon/hackathon2018/day3/img-17.png "img-17")
 
-![img-18](/newsletter/img/hackathon/hackathon2018/day3/img-18.png "img-18")
 
 
-**Our young hackers brought their idea of C.A.L.M app. to help manage medical use of opioids.**
+**Our young hackers brought their idea of C.A.L.M app.** ** to help manage medical use of opioids.**
 ![img-20](/newsletter/img/hackathon/hackathon2018/day3/img-20.png "img-20")
 
 ![img-21](/newsletter/img/hackathon/hackathon2018/day3/img-21.png "img-21")
