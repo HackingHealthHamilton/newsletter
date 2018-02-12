@@ -82,7 +82,7 @@ Tiger is presenting his team work as CognitivePhenoType.
 
 
 
-**Our young hackers brought their idea of C.A.L.M app.** ** to help manage medical use of opioids.**
+**Our young hackers brought their idea of C.A.L.M app.**to help manage medical use of opioids.
 ![img-20](/newsletter/img/hackathon/hackathon2018/day3/img-20.png "img-20")
 
 ![img-21](/newsletter/img/hackathon/hackathon2018/day3/img-21.png "img-21")
