@@ -17,6 +17,7 @@ title: Hacking Health Hackathon 2018 Winners
 **3rd Mohawk MEDIC prize to MediShare**
 ![img-41](/newsletter/img/hackathon/hackathon2018/day3/img-41.png "img-41")
 
+**WiseOwl team.** The Transforming the Aging Experience Through Innovation MIRA prize.
 ![img-43](/newsletter/img/hackathon/hackathon2018/day3/img-43.png "img-43")
 
 
