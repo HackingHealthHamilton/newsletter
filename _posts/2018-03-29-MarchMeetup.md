@@ -6,7 +6,7 @@ title: Hacking Health Meetup At IBM Innovation Space, Hamilton
 
 This month, IBM Innovation Space, Hamilton is hosting us at their space on the 4th floor of Commerce Place right at the centre of the city. The centre will give area healthcare providers, researchers, innovators and entrepreneurs advanced technology tools and expertise to improve healthcare outcomes and put Hamilton on the map as a hub for healthcare innovation in Canada.
 
-![Speakers](/newsletter/img/meetup/MarchSpeaker.png "Speakers")
+![Speakers](/newsletter/img/meetup/img-marchspeaker.png "Speakers")
 
 ### "IBM Innovation Space: Hamilton Update"
 Launched last summer, the HHS Innovation Exchange in partnership with IBM Canada, is a unique innovation accelerator based out of downtown Hamilton aimed at improving our healthcare system. The HHS Innovation Exchange at the IBM Innovation Space gives area healthcare providers, researchers, innovators and entrepreneurs advanced technology tools and expertise to improve healthcare outcomes and put Hamilton on the map as a hub for healthcare innovation in Canada. Gordon will provide an update on the progress and activity at the IBM Innovation Space with HHS and startups!
@@ -24,14 +24,14 @@ HacktheCity.inc is the parent company of the 'Genesis Program' - an early-stage 
 
 **Yu Huang** is a computer science Ph.D. student in the Data Science Lab at McMaster University. He got invited as an academic visitor to work at IBM Germany Stuttgart Research Centre, and collaborated with their Data Forge team to build a data quality project. Yu was the lead developer in a collaborative project with IBM Watson Analytics and was a Fellow at the IBM Centre for Advanced Studies.
 
-![img-1](/newsletter/img/meetup/1.jpg "img-1")
+![img-1](/newsletter/img/meetup/img-1.png "img-1")
 
-![img-2](/newsletter/img/meetup/2.jpg "img-2")
+![img-2](/newsletter/img/meetup/img-2.png "img-2")
 
-![img-3](/newsletter/img/meetup/3.jpg "img-3")
+![img-3](/newsletter/img/meetup/img-3.png "img-3")
 
-![img-6](/newsletter/img/meetup/6.jpg "img-5")
+![img-6](/newsletter/img/meetup/img-5.png "img-5")
 
-![img-7](/newsletter/img/meetup/7.jpg "img-6")
+![img-7](/newsletter/img/meetup/img-7.png "img-6")
 
-![img-8](/newsletter/img/meetup/8.jpg "img-8")
+![img-8](/newsletter/img/meetup/img-8.png "img-8")
