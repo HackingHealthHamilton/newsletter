@@ -1,0 +1,48 @@
+---
+title: Hacking Health Hamilton April Meetup at DF/Net
+---
+
+
+### Details
+This month, [DF/Net Software](https://www.linkedin.com/company/df-net-software/) is hosting Hacking Health Hamilton April Meetup at its office in Dundas. For over 25 years, DF/Net software has supported global clinical research, allowing the DF/Net team to make a profound impact on the way clinical trial data is collected, stored, and reviewed. DF/Net is developing and releasing new tools and smart features, while working toward a common goal of providing flexible, intuitive and innovative software for clients.
+
+**Simon Woodside**, HH Hamilton chapter co-lead, will open the event and summarize the first half of HH Hamilton's fantastic meetup season, as April's Meetup will be the last meetup until September 2018.
+
+**Eric Bosch**, Director of Software Development at DF/Net, our venue sponsor, will provide an introduction to DF/Net Software.
+
+Topics and Speakers:
+### 1. WiseOwl App
+**Fabian Boehem** will give an update on their app WiseOwl, a HHH Hackathon winner. The app helps seniors by connecting them to people in their local communities who can value from their unique skill sets.
+
+
+### 2. The association between common measures of graft function and mortality post heart transplantation:
+
+**Farid Foroutan** is a 3rd year PhD student working with Drs. Gordon Guyatt and Heather Ross. Farid's study focus is on the prognostication of heart transplant recipients and development for the foundation of randomized controlled trials in deceased donor management research. Farid will present the association between common measures of graft function and mortality post heart transplantation. He will also discuss the technological angle, including the utilization of artificial intelligence for better risk classification of patients.
+
+### 3 Organ Donation and Prognosis for Heart Transplant Patients:
+
+**Yasir and Yasir's parents** share their experience with organ donation and the prognosis for heart transplant.
+
+### 4. Using digital stories to build meaningful research partnerships with Indigenous communities:
+
+**Sujane Kandasamy** is a PhD student at McMaster University studying the early-life risk factors of cardiovascular disease in marginalized populations. She is interested in developing knowledge translation interventions alongside key stakeholders such as patients and primary healthcare providers. She is passionate about using collaborative and innovative mediums to build meaningful community partnerships that enhance the impact of research efforts. Sujane is also the co-founder of a pan-Canadian non-profit organization and the co-owner of a research media company.
+
+![aprilMeetup](/newsletter/img/meetup/2018april/img-4.png "Meetup")
+
+![aprilMeetup](/newsletter/img/meetup/2018april/img-6.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-7.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-10.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-15.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-16.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-18.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-23.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-25.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-31.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-35.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-36.png "Meetup")
+
+![aprilMeetup](/newsletter/img/meetup/2018april/img-42.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-43.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-45.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-48.png "Meetup")
+![aprilMeetup](/newsletter/img/meetup/2018april/img-49.png "Meetup")
