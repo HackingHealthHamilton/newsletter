@@ -4,29 +4,29 @@ title: Hacking Health Hamilton April Meetup at DF/Net
 
 
 ### Details
-This month, [DF/Net Software](https://www.linkedin.com/company/df-net-software/) is hosting Hacking Health Hamilton April Meetup at its office in Dundas. For over 25 years, DF/Net software has supported global clinical research, allowing the DF/Net team to make a profound impact on the way clinical trial data is collected, stored, and reviewed. DF/Net is developing and releasing new tools and smart features, while working toward a common goal of providing flexible, intuitive and innovative software for clients.
+This month, [DF/Net Software](https://www.linkedin.com/company/df-net-software/) hosted Hacking Health Hamilton April Meetup at its office in Dundas. For over 25 years, DF/Net software has supported global clinical research, allowing the DF/Net team to make a profound impact on the way clinical trial data is collected, stored, and reviewed. DF/Net is developing and releasing new tools and smart features, while working toward a common goal of providing flexible, intuitive and innovative software for clients.
 
-**Simon Woodside**, HH Hamilton chapter co-lead, will open the event and summarize the first half of HH Hamilton's fantastic meetup season, as April's Meetup will be the last meetup until September 2018.
+**Simon Woodside**, HH Hamilton chapter co-lead, open the event and summarize the first half of HH Hamilton's fantastic meetup season, as April's Meetup will be the last meetup until September 2018.
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-16.png "Meetup")
 
 
-**Eric Bosch**, Director of Software Development at DF/Net, our venue sponsor, will provide an introduction to DF/Net Software.
+**Eric Bosch**, Director of Software Development at DF/Net, our venue sponsor, provided an introduction to DF/Net Software.
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-51.png "Meetup")
 
 Topics and Speakers:
 ### 1. WiseOwl App
-**Fabian Boehem** will give an update on their app WiseOwl, a HHH Hackathon winner. The app helps seniors by connecting them to people in their local communities who can value from their unique skill sets.
+**Fabian Boehem** gave an update on their app WiseOwl, a HHH Hackathon winner. The app helps seniors by connecting them to people in their local communities who can value from their unique skill sets.
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-56.png "Meetup")
 
 ### 2. The association between common measures of graft function and mortality post heart transplantation:
 
-**Farid Foroutan** is a 3rd year PhD student working with Drs. Gordon Guyatt and Heather Ross. Farid's study focus is on the prognostication of heart transplant recipients and development for the foundation of randomized controlled trials in deceased donor management research. Farid will present the association between common measures of graft function and mortality post heart transplantation. He will also discuss the technological angle, including the utilization of artificial intelligence for better risk classification of patients.
+**Farid Foroutan** is a 3rd year PhD student working with Drs. Gordon Guyatt and Heather Ross. Farid's study focus is on the prognostication of heart transplant recipients and development for the foundation of randomized controlled trials in deceased donor management research. Farid present the association between common measures of graft function and mortality post heart transplantation. He also shared the technological angle, including the utilization of artificial intelligence for better risk classification of patients.
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-54.png "Meetup")
 
 
 ### 3 Organ Donation and Prognosis for Heart Transplant Patients:
 
-**Yasir and Yasir's parents** share their experience with organ donation and the prognosis for heart transplant.
+**Yasir and Yasir's parents** shared their experience with organ donation and the prognosis for heart transplant.
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-52.png "Meetup")
 
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-53.png "Meetup")
