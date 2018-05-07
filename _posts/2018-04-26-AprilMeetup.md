@@ -24,9 +24,10 @@ Topics and Speakers:
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-54.png "Meetup")
 
 
-### 3 Organ Donation and Prognosis for Heart Transplant Patients:
+### 3 Kidney Transplant: a family story
 
-**Yasir and Yasir's parents** shared their experience with organ donation and the prognosis for heart transplant.
+**Yasir** present a short talk. And **Yasir's parents** shared their experience with exchange a kidney and give one another a second chance at life.
+
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-52.png "Meetup")
 
 ![aprilMeetup](/newsletter/img/meetup/2018april/img-53.png "Meetup")
