@@ -77,18 +77,18 @@ Thanks to our volunteers:
 
 Hacking Health is a 100% volunteer grassroots group. It’s a cliché, but we couldn’t have put on this event without our volunteers. Planning, logistics and implementing for this event started in the fall of 2017 and was practically a full-time job for almost two months before to make sure everything was onboard, planned and the whole weekend ran smoothly.
 We’d like to thank our co-leaders:
-David Kemper: Information professional specializing in digital experience & tech trends at McMaster University
-Cynthia Lokker: Assistant Professor; MSC eHealth FHS Lead at McMaster University
-Simon Woodside: Co-founder & CTO of MedStack
+- David Kemper: Information professional specializing in digital experience & tech trends at McMaster University
+- Cynthia Lokker: Assistant Professor; MSC eHealth FHS Lead at McMaster University
+- Simon Woodside: Co-founder & CTO of MedStack
 
 
 We have an amazing volunteer team, including:
-Genevieve Jin
-Yasir Khalid
-Deborah Koenig
-Dora Laurent
-Hamideh Nasseh
-Christina Nirta
+- Genevieve Jin
+- Yasir Khalid
+- Deborah Koenig
+- Dora Laurent
+- Hamideh Nasseh
+- Christina Nirta
 
 And we’d also like to thank the group of volunteers who came out and shared their energy and enthusiasm to help organisers in holding this hackathon.
 
