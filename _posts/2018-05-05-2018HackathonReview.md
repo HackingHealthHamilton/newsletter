@@ -96,33 +96,33 @@ And we’d also like to thank the group of volunteers who came out and shared th
 We owe a great debt to our sponsors, who are supporting innovation in healthcare in Hamilton and across the country.
 
 Event sponsors:  
-[McMaster Masters of eHealth Program](https://ehealth.mcmaster.ca/).
+- [McMaster Masters of eHealth Program](https://ehealth.mcmaster.ca/).
 
-[Innovation Factory](http://innovationfactory.ca/).
+- [Innovation Factory](http://innovationfactory.ca/).
 
-[McMaster Innovation Park](https://mcmasterinnovationpark.ca/).
+- [McMaster Innovation Park](https://mcmasterinnovationpark.ca/).
 
-[Hamilton Economic Development](http://www.investinhamilton.ca/).
+- [Hamilton Economic Development](http://www.investinhamilton.ca/).
 
-[DF/Net Software ULC](https://www.linkedin.com/company/df-net-software/).
+- [DF/Net Software ULC](https://www.linkedin.com/company/df-net-software/).
 
-[McMaster Institute for Research on Aging](https://mira.mcmaster.ca/).
+- [McMaster Institute for Research on Aging](https://mira.mcmaster.ca/).
 
-[Mohawk MEDIC](https://www.mohawkcollege.ca/about-mohawk/applied-research/technology-access-centre-digital-health-at-medic).
+- [Mohawk MEDIC](https://www.mohawkcollege.ca/about-mohawk/applied-research/technology-access-centre-digital-health-at-medic).
 
 ![img-6](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-6.png "img-6")
 
 **Hacking Health National Sponsors in Canada:**
 
-Desjardins.
+- Desjardins.
 
-Joule A CMA Company (Hacking Health’s National Medical Partner).
+- Joule A CMA Company (Hacking Health’s National Medical Partner).
 
-MERCK.
+- MERCK.
 
-Fasken Martineau.
+- Fasken Martineau.
 
-OVH.com.
+- OVH.com.
 
 ![img-7](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-7.png "img-7")
 
