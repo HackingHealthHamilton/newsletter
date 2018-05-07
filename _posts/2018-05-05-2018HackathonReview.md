@@ -6,10 +6,10 @@ title: NavaBed, WiseOwl, CALM, and MediShare win Hacking Health Hamilton 2018
 Local television (Cable 14) conducted an interview with two of main organisers (David Kemper and Simon Woodside) before the event. [Check out the interview.](https://cable14now.com/video-on-demand/video/?videoId=2702)
 
 **The weekend of February 9-11 2018 was an exciting one for healthcare innovation in Hamilton. Over 70 participants gathered to form a dozen teams to hack together digital solutions for big healthcare problems.**
-![img-1](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-1.png "img-1")
+![img-1](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-1.png "img-1")
 
 **We all had an amazing time at the hackathon and we want to share with you the weekend in details. Want to find out about the process, participants and winners? Read on!**
-![img-2](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-2.png "img-2")
+![img-2](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-2.png "img-2")
 
 ### Friday night: Pitches & team formation
 We started out at 5pm with a pitch clinic to help project owners craft a great pitch in the event, while everyone had a chance to network at the reception, with light food and refreshments. Our official program began at 7pm with Nicolas Piperno, who came from Toronto to MC the weekend. 
@@ -29,15 +29,15 @@ Each team had four minutes to present their work and judges ask questions for tw
 ### Our judging panel
 Our judging panel was made up of healthcare innovators, educators and hackathon pros.
 
-![img-3](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-3.png "img-3")
+![img-3](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-3.png "img-3")
 **Dr. Dennis DiValentino** currently maintains a private family practice in urban core Hamilton, in area designated as a Red Zone, which is an area noted for having far worse health outcomes than the rest of the country on average. Dr. DiValentino is an Assistant Clinical Professor in the Department of Family Medicine at McMaster University where he recently received the Preceptor Award for Excellence in Undergraduate Pre-Clerkship Medicine. Dr. DiValentino is the current President of the Hamilton Academy of Medicine as well as the co-founder of Ramcare a Virtual Care initiative aimed at bridging gaps in the health care system through the use of technology.
 
-![img-4](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-4.png "img-4")
+![img-4](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-4.png "img-4")
 Paul Brown is the General Manager for Mohawk College’s MEDIC Applied Research Centre. Having worked with Mohawk for 8 years, he oversees international projects which include the creation of OpenIZ, an open-sourced immunization platform for Tanzania, implementations of the Everest Client Registry in South-East Asia, and educational knowledge transfers around the world. In North America, his partnerships include NSERC, IRAP, eHealth Ontario, Canada Health Infoway, and Ontario's Ministry of Long-Term Health Care. He is responsible for the delivery of the digital health Technology Access Centre program which provides technical and business development to small and medium sized enterprises across Canada.
 A passionate advocate for innovation, Mr. Brown creates linkages between entrepreneurs, funders, and government agencies. He is a proud graduate of Software Engineering at Mohawk College and McMaster University. He has mentored hundreds of students to provide the industry with new future ready technologists.
 
 
-![img-5](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-5.png "img-5")
+![img-5](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-5.png "img-5")
 **Elizabeth Thorsen** loves startups. Through her role as Sr. Events & Marketing Manager at Innovation Factory, she organizes several pitch competitions, including The Synapse Life Science Competition, ELEV8, and Lion’s Lair. Elizabeth spends her days working with Hamilton based health, tech, and other startups, to help them refine their business models, develop a sales strategy, and access funding and investment as needed to help them reach their commercialization goals.
 
 
@@ -96,15 +96,15 @@ And we’d also like to thank the group of volunteers who came out and shared th
 We owe a great debt to our sponsors, who are supporting innovation in healthcare in Hamilton and across the country.
 
 Event sponsors:  
-[McMaster Masters of eHealth Program](https://ehealth.mcmaster.ca/)
-[Innovation Factory](http://innovationfactory.ca/)
-[McMaster Innovation Park](https://mcmasterinnovationpark.ca/)
-[Hamilton Economic Development](http://www.investinhamilton.ca/)
-[DF/Net Software ULC.](https://www.linkedin.com/company/df-net-software/)
-[McMaster Institute for Research on Aging] (https://mira.mcmaster.ca/)
-[Mohawk MEDIC](https://www.mohawkcollege.ca/about-mohawk/applied-research/technology-access-centre-digital-health-at-medic)
+[McMaster Masters of eHealth Program](https://ehealth.mcmaster.ca/).
+[Innovation Factory](http://innovationfactory.ca/).
+[McMaster Innovation Park](https://mcmasterinnovationpark.ca/).
+[Hamilton Economic Development](http://www.investinhamilton.ca/).
+[DF/Net Software ULC.](https://www.linkedin.com/company/df-net-software/).
+[McMaster Institute for Research on Aging] (https://mira.mcmaster.ca/).
+[Mohawk MEDIC](https://www.mohawkcollege.ca/about-mohawk/applied-research/technology-access-centre-digital-health-at-medic).
 
-![img6](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-6.png "img-6")
+![img-6](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-6.png "img-6")
 
 **Hacking Health National Sponsors in Canada:**
 Desjardins
@@ -112,10 +112,10 @@ Joule A CMA Company (Hacking Health’s National Medical Partner)
 MERCK
 Fasken Martineau
 OVH.com
-![img7](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-7.png "img-7")
+![img-7](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-7.png "img-7")
 
 ### What is Hacking Health?
 Hacking Health Hamilton is a digital health innovation organization, part of the Hacking Health global movement of grassroots groups in more than 40 cities around the world - Canada, USA, Europe, Australia, Asia, South Africa and Tunisia. We bring together health care professionals, meta users, entrepreneurs, innovators, developers, designers among others to work on the opportunities available in the healthcare industry.
 Every year since 2016, we run a Hacking Health hackathon. At a hackathon, ideas for projects are pitched on Friday night, participants align themselves with a project of interest and form teams, and these teams ‘hack’ a prototype solution over the course of Saturday and Sunday. Our hackathon runs over a weekend and allows innovators, both neophyte and experienced, to create prototypes and compete for prizes such as valuable support from local and national organizations.
 
-![img8](/newsletter/img/hackathon/hackathon2018/\hackathonsummary/img-8.png "img-8")
+![img-8](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-8.png "img-8")
