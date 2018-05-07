@@ -97,25 +97,38 @@ We owe a great debt to our sponsors, who are supporting innovation in healthcare
 
 Event sponsors:  
 [McMaster Masters of eHealth Program](https://ehealth.mcmaster.ca/).
+
 [Innovation Factory](http://innovationfactory.ca/).
+
 [McMaster Innovation Park](https://mcmasterinnovationpark.ca/).
+
 [Hamilton Economic Development](http://www.investinhamilton.ca/).
-[DF/Net Software ULC.](https://www.linkedin.com/company/df-net-software/).
-[McMaster Institute for Research on Aging] (https://mira.mcmaster.ca/).
+
+[DF/Net Software ULC](https://www.linkedin.com/company/df-net-software/).
+
+[McMaster Institute for Research on Aging](https://mira.mcmaster.ca/).
+
 [Mohawk MEDIC](https://www.mohawkcollege.ca/about-mohawk/applied-research/technology-access-centre-digital-health-at-medic).
 
 ![img-6](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-6.png "img-6")
 
 **Hacking Health National Sponsors in Canada:**
-Desjardins
-Joule A CMA Company (Hacking Health’s National Medical Partner)
-MERCK
-Fasken Martineau
-OVH.com
+
+Desjardins.
+
+Joule A CMA Company (Hacking Health’s National Medical Partner).
+
+MERCK.
+
+Fasken Martineau.
+
+OVH.com.
+
 ![img-7](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-7.png "img-7")
 
 ### What is Hacking Health?
 Hacking Health Hamilton is a digital health innovation organization, part of the Hacking Health global movement of grassroots groups in more than 40 cities around the world - Canada, USA, Europe, Australia, Asia, South Africa and Tunisia. We bring together health care professionals, meta users, entrepreneurs, innovators, developers, designers among others to work on the opportunities available in the healthcare industry.
+
 Every year since 2016, we run a Hacking Health hackathon. At a hackathon, ideas for projects are pitched on Friday night, participants align themselves with a project of interest and form teams, and these teams ‘hack’ a prototype solution over the course of Saturday and Sunday. Our hackathon runs over a weekend and allows innovators, both neophyte and experienced, to create prototypes and compete for prizes such as valuable support from local and national organizations.
 
 ![img-8](/newsletter/img/hackathon/hackathon2018/hackathonsummary/img-8.png "img-8")
