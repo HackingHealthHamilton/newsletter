@@ -1,5 +1,5 @@
 ---
-title: Life after a Hackathon: Project Trajectories after 48 Hours of Hacking
+title: Life after a Hackathon, Project Trajectories after 48 Hours of Hacking
 ---
 ### Details 
 
